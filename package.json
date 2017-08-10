@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "serve .",
+    "start2": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +20,8 @@
   },
   "homepage": "https://github.com/codiechanel/monaco-demo#readme",
   "dependencies": {
-    "monaco-editor": "^0.9.0"
+    "express": "^4.15.4",
+    "monaco-editor": "^0.9.0",
+    "serve": "^6.0.6"
   }
 }

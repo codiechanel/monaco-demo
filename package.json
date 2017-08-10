@@ -20,7 +20,6 @@
   },
   "homepage": "https://github.com/codiechanel/monaco-demo#readme",
   "dependencies": {
-    "express": "^4.15.4",
     "monaco-editor": "^0.9.0",
     "serve": "^6.0.6"
   }
